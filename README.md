@@ -2,8 +2,9 @@
 Detect faces and add moasics 
 
 ### Requirement:
-Opencv 4.2.0
-python 3.5
+
+- Opencv 4.2.0
+- python 3.5
 
 ### Run:
 python Face-Detector-with-Mosaic.py --filepath /home/will/Videos/Face-recognition-demo/Processing --confidence 0.9 -s T -i ./save_image/
